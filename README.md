@@ -1,6 +1,14 @@
 ### Olá, sou a Zai! 👋
 
-[Em construção 🔧]
+Sou dev. Front End Júnior mas adoro me aventurar pelo mundo das linguagens de programação de tecnologia. 
+Meus maiores conhecimentos são JavaScript, NodeJS, ReactJS, Git/GitHub e metodologia ágil (Scrum). Porém busco me aperfeiçoar sempre, aprender através de pessoas da área e também participar e colaborar com a comunidade de desenvolvedores que é muito acolhedora.
+
+Meus principais projetos:
+
+* [Burger Queen](https://burgerqueen-lab004.web.app/login)
+* [SafeHome](https://social-network-sap004.web.app)
+* [LOL Tool](https://amandazaine.github.io/SAP004-data-lovers/src/)
+
 
 <!--
 **AmandaZaine/AmandaZaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

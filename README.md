@@ -1,6 +1,6 @@
 ### Olá, sou a Zai! 👋
 
-Sou dev. Front End Júnior mas adoro me aventurar pelo mundo das linguagens de programação de tecnologia. 
+Sou dev. Front End Júnior mas adoro me aventurar pelo mundo das linguagens de programação e da tecnologia. 
 Meus maiores conhecimentos são JavaScript, NodeJS, ReactJS, Git/GitHub e metodologia ágil (Scrum). Porém busco me aperfeiçoar sempre, aprender através de pessoas da área e também participar e colaborar com a comunidade de desenvolvedores que é muito acolhedora.
 
 Meus principais projetos:

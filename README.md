@@ -7,7 +7,7 @@ Meus principais projetos:
 
 * [Burger Queen](https://burgerqueen-lab004.web.app/login)
 * [SafeHome](https://social-network-sap004.web.app)
-* [WoCan](https://github.com/AmandaZaine/Talent2020CI-T-WoCan)
+* [WoCan](https://talent2020ci-t-wocan.web.app)
 
 
 <!--

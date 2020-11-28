@@ -1,13 +1,13 @@
 ### Olá, sou a Zai! 👋
 
-Sou dev. Front End Júnior mas adoro me aventurar pelo mundo das linguagens de programação e da tecnologia. 
+Sou desenvolvedora Júnior na [CI&T](https://br.ciandt.com) e adoro me aventurar pelo mundo das linguagens de programação e da tecnologia. 
 Meus maiores conhecimentos são JavaScript, NodeJS, ReactJS, Git/GitHub e metodologia ágil (Scrum). Porém busco me aperfeiçoar sempre, aprender através de pessoas da área e também participar e colaborar com a comunidade de desenvolvedores que é muito acolhedora.
 
 Meus principais projetos:
 
 * [Burger Queen](https://burgerqueen-lab004.web.app/login)
 * [SafeHome](https://social-network-sap004.web.app)
-* [LOL Tool](https://amandazaine.github.io/SAP004-data-lovers/src/)
+* [WoCan](https://github.com/AmandaZaine/Talent2020CI-T-WoCan)
 
 
 <!--

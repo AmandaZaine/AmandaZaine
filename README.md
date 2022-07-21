@@ -1,9 +1,9 @@
 ### Olá, sou a Zai! 👋
 
-Sou desenvolvedora Júnior na [CI&T](https://br.ciandt.com) e adoro me aventurar pelo mundo das linguagens de programação e da tecnologia. 
-Meus maiores conhecimentos são JavaScript, NodeJS, ReactJS, Git/GitHub e metodologia ágil (Scrum). Porém busco me aperfeiçoar sempre, aprender através de pessoas da área e também participar e colaborar com a comunidade de desenvolvedores que é muito acolhedora.
+Sou desenvolvedora de software Júnior e adoro me aventurar pelo mundo das linguagens de programação e da tecnologia. 
+Meus maiores conhecimentos são JavaScript, ReactJS, Git/GitHub, Kotlin, Groovy, testes unitários (unit test) e metodologia ágil (Scrum). 
 
-Meus principais projetos:
+Meus principais projetos desenvolvido no Bootcamp da Laboratória:
 
 * [Burger Queen](https://burgerqueen-lab004.web.app/login)
 * [SafeHome](https://social-network-sap004.web.app)

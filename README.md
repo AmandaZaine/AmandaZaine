@@ -1,9 +1,9 @@
 ### Olá, sou a Zai! 👋
 
-Sou desenvolvedora de software Júnior e adoro me aventurar pelo mundo das linguagens de programação e da tecnologia. 
-Meus maiores conhecimentos são JavaScript, ReactJS, Git/GitHub, Kotlin, Groovy, testes unitários (unit test) e metodologia ágil (Scrum). 
+Sou desenvolvedora de software pleno com aproximadamente 4 anos de experiência em desenvolvimento back end com linguagem java, kotlin e groovy.
+Meus maiores conhecimentos são Java, Spring Boot, JavaScript, ReactJS, Git/GitHub, Kotlin, Groovy, testes unitários (unit test) e metodologia ágil (Scrum). 
 
-Meus principais projetos desenvolvido no Bootcamp da Laboratória:
+Meus projetos desenvolvido no Bootcamp da Laboratória:
 
 * [Burger Queen](https://burgerqueen-lab004.web.app/login)
 * [SafeHome](https://social-network-sap004.web.app)

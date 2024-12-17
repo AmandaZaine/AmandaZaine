@@ -3,10 +3,10 @@ Bem vinda(o) ao meu GitHub pessoal, aqui é onde busco salvar e compartilhar meu
 
 Sou desenvolvedora de software pleno com aproximadamente 4 anos de experiência em desenvolvimento back end.
 Meus maiores conhecimentos são:
-Back-end: Java, Spring Boot, Kotlin, Groovy, JPA, Hibernate, Jackson ObjectMapper, criação de testes unitários;
-Banco de dados: Oracle, PostgreSQL, MySQL e MongoDB;
-Front-end: JavaScript, ReactJS;
-Metodologia Scrum.
+- Back-end: Java, Spring Boot, Kotlin, Groovy, JPA, Hibernate, Jackson ObjectMapper, criação de testes unitários;
+- Banco de dados: Oracle, PostgreSQL, MySQL e MongoDB;
+- Front-end: JavaScript, ReactJS;
+- Metodologia Scrum.
 
 - 🌱 Estou aprendendo atualmente: AWS, Spring Cloud OpenFeign, Design Patterns
 

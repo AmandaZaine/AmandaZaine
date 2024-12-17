@@ -10,10 +10,13 @@ Meus maiores conhecimentos são:
 
 - 🌱 Estou aprendendo atualmente: AWS, Spring Cloud OpenFeign, Design Patterns
 
+Veja meus projetos de back-end:
+* [API Rest com Java, SpringBoot e MongoDB](https://github.com/AmandaZaine/API_Java_SpringBoot_MongoDB)
+* [Microsservicos com Java](https://github.com/AmandaZaine/EBAC_BackEnd_Java_Microsservicos)
+* [Manipulação de dados usando Java, JPA e Hibernate](https://github.com/AmandaZaine/EBAC_BackEnd_Java_JPA_Hibernate)
 
 
-
-Meus projetos desenvolvido no Bootcamp da Laboratória:
+Meus projetos de front-end desenvolvidos no Bootcamp da Laboratória:
 * [Burger Queen](https://burgerqueen-lab004.web.app/login)
 * [SafeHome](https://social-network-sap004.web.app)
 * [WoCan](https://talent2020ci-t-wocan.web.app)

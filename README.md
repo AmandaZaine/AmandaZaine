@@ -6,14 +6,14 @@ Meus maiores conhecimentos são:
 - Back-end: Java, Spring Boot, Kotlin, Groovy, JPA, Hibernate, Jackson ObjectMapper, criação de testes unitários;
 - Banco de dados: Oracle, PostgreSQL, MySQL e MongoDB;
 - Front-end: JavaScript, ReactJS;
-- Metodologia Scrum.
+- Modelos de processo de software: Modelo cascata, Metodologia Scrum.
 
 - 🌱 Estou aprendendo atualmente: AWS, Spring Cloud OpenFeign, Design Patterns
 
 Veja meus projetos de back-end:
 * [API Rest com Java, SpringBoot e MongoDB](https://github.com/AmandaZaine/API_Java_SpringBoot_MongoDB)
 * [Microsservicos com Java](https://github.com/AmandaZaine/EBAC_BackEnd_Java_Microsservicos)
-* [Manipulação de dados usando Java, JPA e Hibernate](https://github.com/AmandaZaine/EBAC_BackEnd_Java_JPA_Hibernate)
+* [Manipulação de dados usando Java, JPA, Hibernate e MySQL](https://github.com/AmandaZaine/EBAC_BackEnd_Java_JPA_Hibernate)
 
 
 Meus projetos de front-end desenvolvidos no Bootcamp da Laboratória:

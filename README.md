@@ -8,7 +8,7 @@ Meus maiores conhecimentos são:
 - Front-end: JavaScript, ReactJS;
 - Modelos de processo de software: Modelo cascata, Metodologia Scrum.
 
-- 🌱 Estou aprendendo atualmente: AWS, Spring Cloud OpenFeign, Design Patterns
+- 🌱 Estou aprendendo atualmente: AWS, Kafka, Design Patterns
 
 Veja meus projetos de back-end:
 * [API Rest com Java, SpringBoot e MongoDB](https://github.com/AmandaZaine/API_Java_SpringBoot_MongoDB)

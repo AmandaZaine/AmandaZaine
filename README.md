@@ -11,6 +11,7 @@ Meus maiores conhecimentos são:
 - 🌱 Estou aprendendo atualmente: AWS, Kafka, Design Patterns
 
 Veja meus projetos de back-end:
+* [Mensageria com Kafka e Java](https://github.com/AmandaZaine/Java_Kafka)
 * [API Rest com Java, SpringBoot e MongoDB](https://github.com/AmandaZaine/API_Java_SpringBoot_MongoDB)
 * [Microsservicos com Java](https://github.com/AmandaZaine/EBAC_BackEnd_Java_Microsservicos)
 * [Manipulação de dados usando Java, JPA, Hibernate e MySQL](https://github.com/AmandaZaine/EBAC_BackEnd_Java_JPA_Hibernate)

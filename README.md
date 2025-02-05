@@ -6,9 +6,9 @@ Meus maiores conhecimentos são:
 - Back-end: Java, Spring Boot, Kotlin, Groovy, JPA, Hibernate, Jackson ObjectMapper, criação de testes unitários;
 - Banco de dados: Oracle, PostgreSQL, MySQL e MongoDB;
 - Front-end: JavaScript, ReactJS;
-- Modelos de processo de software: Modelo cascata, Metodologia Scrum.
+- Modelos de processo de software: Metodologia Scrum.
 
-- 🌱 Estou aprendendo atualmente: AWS, Kafka, Design Patterns
+- 🌱 Estou aprendendo atualmente: AWS, Kafka, Docker
 
 Veja meus projetos de back-end:
 * [Car Ecommerce: Microsserviços usando Java, Spring Boot, Kafka e PostgreSQL](https://github.com/AmandaZaine/Car_Ecommerce_CoreAPI)

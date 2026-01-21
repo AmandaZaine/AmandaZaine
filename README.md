@@ -1,14 +1,19 @@
 ### Hello, World! I’m Amanda Zaine 👋
 
 Welcome to my personal GitHub!
+
 This is where I store and share projects aimed at strengthening my hands-on skills in software development.
 
 I’m a mid-level software developer with around 5 years of experience in back-end development.
 
 My main areas of expertise include:
+
 Back-end: Java, Spring Boot, Kotlin, Groovy, JPA, Hibernate, Jackson ObjectMapper, and unit testing
+
 Databases: Oracle, PostgreSQL, MySQL, and MongoDB
+
 Front-end: JavaScript, React, Angular, TypeScript
+
 Software process models: Scrum methodology
 
 🌱 Currently learning: AWS, Kafka, and Docker
